@@ -11,6 +11,8 @@
     "start:client": "react-scripts start"
   },
   "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "jest": "^29.5.0",
     "nodemon": "^2.0.4"
   },
   "dependencies": {
